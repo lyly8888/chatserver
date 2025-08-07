@@ -7,3 +7,5 @@ rm -rf *
 cmake ..
 make
 
+或者 一键编译脚本
+./autobuild.sh
